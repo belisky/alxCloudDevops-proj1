@@ -1,8 +1,10 @@
 # alxCloudDevops-proj1
 Static website hosting on aws
-Link to the static website from cloudfront.
+
+# Link to the static website from cloudfront.
 https://d34f7g3rzun9r5.cloudfront.net
-Link to the static website from aws s3 bucket link.
+
+#Link to the static website from aws s3 bucket link.
 http://myfirstproj-staticweb-alx.s3-website-us-east-1.amazonaws.com
 
 # Sample of the website homepage.
